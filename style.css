@@ -12,7 +12,7 @@
 #second {
   position: absolute;
   background: black;
-  border-radius: 10px;
+  border-radius: 11px;
   transform-origin: bottom;
 }
 #hour {
